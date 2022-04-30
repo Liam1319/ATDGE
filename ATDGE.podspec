@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ATDGE"
-  spec.version      = "0.0.1"
+  spec.version      = "3.0.1"
   spec.summary      = "ATDGEtest."
 
   # This description is used to generate tags and improve search results.
@@ -134,3 +134,4 @@ Pod::Spec.new do |spec|
   # spec.dependency "JSONKit", "~> 1.4"
 
 end
+
